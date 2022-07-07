@@ -4,7 +4,7 @@ return {
     family = "FantasqueSansMono Nerd Font Mono",
   }),
   font_size = 17,
-  color_scheme = "Batman",
+  color_scheme = "BlulocoDark",
   default_cursor_style = "BlinkingBlock",
   cursor_blink_ease_in = "Linear",
   cursor_blink_ease_out = "Linear",
