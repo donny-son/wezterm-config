@@ -1,7 +1,7 @@
 local wezterm = require 'wezterm';
 return {
   font = wezterm.font({
-    family = "FantasqueSansMono Nerd Font Mono",
+    family = "Fira Mono Bold Nerd Font Complete",
   }),
   font_size = 17,
   color_scheme = "BlulocoDark",
@@ -13,4 +13,5 @@ return {
   audible_bell = "Disabled",
   enable_tab_bar = false,
   line_height = 1.2,
+  warn_about_missing_glyphs = false,
 }
