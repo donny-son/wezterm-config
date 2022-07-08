@@ -1,7 +1,7 @@
 local wezterm = require 'wezterm';
 return {
   font = wezterm.font({
-    family = "Fira Mono Bold Nerd Font Complete",
+    family = "FiraCode Nerd Font",
   }),
   font_size = 17,
   color_scheme = "BlulocoDark",
